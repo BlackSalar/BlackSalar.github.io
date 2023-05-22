@@ -1,0 +1,139 @@
+nav.Head 
+{
+    background-color: #80983A;            
+}
+div.MenuDiv
+{
+    display: flex;
+    font-size: 20px;
+    font-family: Jockey system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.Logo
+{
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-bottom: 1%;  
+    
+}
+nav.Head ul 
+{
+    list-style-type: none;        
+    text-align: center;              
+}
+nav.Head ul li 
+{
+    display: inline-block; 
+    margin-top: 3%;
+    margin-bottom: 3%;    
+    text-transform: uppercase;            
+}
+nav.Head ul li a 
+{
+    color: #fff;    
+    text-decoration: none;
+    padding: 0rem 3rem;    
+}
+#Instructions
+{
+    padding-top: 1rem;    
+    margin-top: -0.5rem;
+    display: list-item;
+    padding-right: 15%;
+    padding-left: 15%;
+    background-color: #E4E4E4;
+    padding-bottom: 1rem;   
+}
+.Instruction
+{    
+    font-size: 30px;
+    font-family: Jockey system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;    
+    font-style: normal;
+    padding-bottom: 1rem;     
+    text-align: center;   
+}
+p.Attention 
+{
+    text-align: justify;
+    font-size: 20px;
+    font-family: Jockey system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+p.Text
+{  
+    text-align: justify;  
+    font-size: 20px;
+    font-family: Jockey system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.Img-right
+{
+    height: 100px;
+    padding-right: 5%;    
+}
+.Img-left
+{
+    height: 80px;
+    padding-left: 5%;    
+}
+li.Job
+{   
+    display: flex;
+    align-items: center;           
+}
+#End
+{
+    display: list-item;
+    background-color: #80983A;
+    width: 100%;
+    height: auto;
+}
+svg.Phone
+{
+    fill: #fff;
+    height: 16px;
+}
+svg.Email
+{
+    fill: #fff;
+    height: 16px;    
+}
+div.Contacts
+{
+    display: flex;
+    font-size: 15px;
+    color: #fff;
+    font-family: Jockey system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+nav.Foot ul li 
+{
+    padding-top: 1rem;
+}
+nav.Foot ul li a
+{
+    padding-left: 1rem;
+}
+nav.Foot ul 
+{
+    
+    list-style-type: none;        
+    text-align: left;
+    padding-top: 1rem;                 
+}
+nav.Foot ul.Nets
+{    
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 1rem;
+    fill: #fff;
+    width: 100%;
+    width: 200px;
+    margin-left: 38rem;
+}
+p.Copyright
+{
+    color: #fff;
+    text-align: center;
+    padding-bottom: 1%;
+    font-size: 15px;
+    font-family: Jockey system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
