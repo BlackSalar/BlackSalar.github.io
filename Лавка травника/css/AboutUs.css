@@ -136,7 +136,7 @@ nav.Head ul li a
 }
 #slider_bl .info.top-right
 {
-    top:30px;
+    bottom: 30px;
     right:30px
 }
 #slider_bl .info.bottom-left
